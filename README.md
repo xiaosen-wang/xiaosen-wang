@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a second-year master student from Huazhong University of Science and Technology, China. Currently, I am interested Adversarial Attack & Defense in Deep Learning. **I am also looking for research intership and opportunities to pursue a PhD degree in 2022 Fall!** For more information, pelease refer to my [homepage](https://xiaosen-wang.github.io/).
+I am a second-year master student from Huazhong University of Science and Technology, China. Currently, I am interested Adversarial Attack & Defense in Deep Learning. **I am also looking for research intership and opportunities to pursue a PhD degree in 2022 Fall!** For more information, please refer to my [homepage](https://xiaosen-wang.github.io/).
